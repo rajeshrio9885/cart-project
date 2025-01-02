@@ -5,37 +5,37 @@
             {
                 "product_id" : 6,
                 "product_name" : "Bean Bag",
-                "imgSrc" : "/homeappliance/beanbag.jpeg",
+                "imgSrc" : "./homeappliance/beanbag.jpeg",
                 "price" : 5000
             },
             {
                 "product_id" : 7,
                 "product_name" : "wooden Bed",
-                "imgSrc" : "/homeappliance/bed.jpeg",
+                "imgSrc" : "./homeappliance/bed.jpeg",
                 "price" : 8000
             },
             {
                 "product_id" : 8,
                 "product_name" : "Electric cooker",
-                "imgSrc" : "/homeappliance/cooker.jpeg",
+                "imgSrc" : "./homeappliance/cooker.jpeg",
                 "price" : 2000
             },
             {
                 "product_id" : 9,
                 "product_name" : "Curtain",
-                "imgSrc" : "/homeappliance/curtain.jpeg",
+                "imgSrc" : "./homeappliance/curtain.jpeg",
                 "price" : 1000
             },
             {
                 "product_id" : 10,
                 "product_name" : "Iron box",
-                "imgSrc" : "/homeappliance/ironbox.jpeg",
+                "imgSrc" : "./homeappliance/ironbox.jpeg",
                 "price" : 900
             },
             {
                 "product_id" : 11,
                 "product_name" : "Pillow",
-                "imgSrc" : "/homeappliance/pillow.jpeg",
+                "imgSrc" : "./homeappliance/pillow.jpeg",
                 "price" : 500
             }
         ]
