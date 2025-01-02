@@ -4,7 +4,7 @@
     justify-content: center;
     padding-top: 20px;
     height: 100vh;
-    background: url("/imageCarsouel/bgForBody.jpg");
+    background: url("./imageCarsouel/bgForBody.jpg");
     overflow-x: hidden;
 }
 #outerdiv{
