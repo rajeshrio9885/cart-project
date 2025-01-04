@@ -257,7 +257,7 @@ function payNow(){
     alert("Invalid card number!")
   }else if(month>12){
     alert("Invalid month!")
-  }else if(year<24){
+  }else if(year<25){
     alert("Invalid year!")
   }
   else if(cvv.length != 3){
