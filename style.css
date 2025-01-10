@@ -347,7 +347,7 @@ h5{
 @media screen and (max-width:599px) {
     .atmCard{
         z-index: 599999;
-        left: 50px;
+        left: 8px;
         top: 70px;
         padding: 0;
         padding-left: 15px;
